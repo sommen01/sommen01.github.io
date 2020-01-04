@@ -293,13 +293,13 @@ tbody tr:nth-child(odd) th {
         padding-left: 9px;
         padding-right: 9px;
         text-align: center;
-        border: 2px rgb(0, 0, 0) solid;
-        color: rgb(0, 0, 0);
+        border: 2px rgb(64, 236, 121) solid;
+        color:rgb(64, 236, 121);
         &:hover,
         &:focus {
             color: #fff;
             border-color: #fff;
-            background: rgb(0, 0, 0);
+            background:rgb(64, 236, 121);
         }
     }
 }
@@ -406,10 +406,10 @@ tbody tr:nth-child(odd) th {
         }
         span {
             font-weight: 800;
-            color: #EC407A;
+            color:rgb(64, 236, 121);
             &:hover,
             &:focus {
-                color: #EC407A;
+                color: rgb(64, 236, 121);
                 text-decoration: none;
             }
         }
@@ -435,7 +435,7 @@ tbody tr:nth-child(odd) th {
 /* Comment */
 
 .highlight .err {
-    color: #a61717;
+    color: rgb(64, 236, 121);
     background-color: #e3d2d2
 }
 
