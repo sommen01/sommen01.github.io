@@ -23,10 +23,9 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
-    href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
+  - name:           "Sobre"
+    href:           "/sobre"
+  
 
 sass:
   style:            :compressed
