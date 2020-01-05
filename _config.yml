@@ -1,7 +1,7 @@
 name:               "Luka Lickah"
 description:        "Desenvolvedor junior"
 
-url:                "http://www.dl-digital.com/images/Astronomy/Nebulae/Rosette-Bok-64-Frame-Halpa-crop-v4preHDcropNew2.jpg"
+url:                "http://sommen01.github.io"
 author:             "Luka Lickah"
 email:              "lukamatheus0@gmail.com"
 gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
@@ -12,7 +12,7 @@ linkedin:           "luka-lickah-972775190"
 
 disqus_shortname:   ""
 
-background:         "http://www.dl-digital.com/images/Astronomy/Nebulae/Rosette-Bok-64-Frame-Halpa-crop-v4preHDcropNew2.jpg"
+background:         "https://66.media.tumblr.com/59994b33ccbe03f9dc0be1c3ca24072f/tumblr_piznhiQ31F1ql9a3vo2_500.jpg"
 
 paginate:           5
 paginate_path:      "/page:num/"

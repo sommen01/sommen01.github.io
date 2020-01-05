@@ -50,7 +50,7 @@ a {
     transition: all 0.3s;
     &:hover,
     &:focus {
-        color: #EC407A;
+        color: rgb(64, 236, 121);
         text-decoration: dotted;
     }
 }
@@ -275,7 +275,7 @@ tbody tr:nth-child(odd) th {
 
 .top {
     position: fixed;
-    background: rgb(64, 236, 121);
+    background: rgb(12, 156, 36);
     height: 3px;
     width: 100%;
     top: 0;
@@ -366,7 +366,7 @@ tbody tr:nth-child(odd) th {
         .social {
             position: absolute;
             bottom: 0; 
-            margin-left: 12vw;
+            margin-left: 5vw;
             a {
                 padding: 0;
                 margin-left: 0;
@@ -399,14 +399,14 @@ tbody tr:nth-child(odd) th {
     .bloghead-nav {
         a {
             color: #000;
-            font-weight: 800;
+            font-weight: 900;
             &:hover {
                 color: #424242;
             }
         }
         span {
             font-weight: 800;
-            color:rgb(64, 236, 121);
+            color:rgb(0, 133, 44);
             &:hover,
             &:focus {
                 color: rgb(64, 236, 121);
