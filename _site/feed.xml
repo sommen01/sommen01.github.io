@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>Luka Lickah</title>
+		<title>Herick é mt gay</title>
 		<link>http://sommen01.github.io</link>
 		<atom:link href="http://sommen01.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
@@ -16,6 +16,45 @@ Nenhum de nós prove uma palavra sequer, fazendo com que os únicos sons circula
 				<pubDate>Sat, 04 Jan 2020 00:00:00 -0400</pubDate>
 				<link>http://sommen01.github.io/2020/01/04/example-content-copy-11/</link>
 				<guid isPermaLink="true">http://sommen01.github.io/2020/01/04/example-content-copy-11/</guid>
+			</item>
+		
+			<item>
+				<title>Ola, prazer meu nome é Luka.</title>
+        <description>&lt;h1 id=&quot;blog-de-desenvolvimento-em-desenvolvimento&quot;&gt;Blog de desenvolvimento em desenvolvimento.&lt;/h1&gt;
+
+&lt;p&gt;Ola seja bem vindo ao meu blog de desenvolvimento que está em desenvolvimento. Tentarei manter o foco com flutter e vuejs, dois frameworks que gosto bastante e espero contribuir com a comunidade
+e blablbalabla amanha eu testo fodase&lt;/p&gt;
+</description>
+				<pubDate>Sat, 04 Jan 2020 00:00:00 -0400</pubDate>
+				<link>http://sommen01.github.io/2020/01/04/PrimeiroPost/</link>
+				<guid isPermaLink="true">http://sommen01.github.io/2020/01/04/PrimeiroPost/</guid>
+			</item>
+		
+			<item>
+				<title>Integrating razorpay into your webapp</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kr&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Razorpay&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;razorpay&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;rzp&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Razorpay&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
+	&lt;span class=&quot;na&quot;&gt;key_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;KEY_ID&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+	&lt;span class=&quot;na&quot;&gt;secret&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;name&#39;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// capture request&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;rzp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;capture&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;payment_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;cost&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;then&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+				<pubDate>Sat, 23 Mar 2019 11:33:36 -0400</pubDate>
+				<link>http://sommen01.github.io/2019/03/23/welcome-to-jekyll/</link>
+				<guid isPermaLink="true">http://sommen01.github.io/2019/03/23/welcome-to-jekyll/</guid>
 			</item>
 		
 	</channel>
