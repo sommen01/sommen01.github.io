@@ -1,9 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>Herick é mt gay</title>
-		<link>http://sommen01.github.io</link>
-		<atom:link href="http://sommen01.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<title>Luka Lickah</title>
+		<link>http://sommen.github.io</link>
+		<atom:link href="http://sommen.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Oque é Flutter, e porque usa-lo.</title>
+        <description>&lt;h1 id=&quot;o-queridinho-da-google&quot;&gt;O queridinho da Google.&lt;/h1&gt;
+
+&lt;p&gt;O Flutter é  um framework cross-platform de interface do usuário do Google para criar aplicativos bonitos, leves e compilados com perfomance nativa para dispositivos móveis, Web e desktop utilizando de um único código.&lt;/p&gt;
+
+&lt;h1 id=&quot;agilidade&quot;&gt;Agilidade&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/flutter.png&quot; alt=&quot;flutter graph &quot; /&gt;
+fonte: towardsdatascience.com/flutter-vs-react-native-vs-xamarin-which-is-the-best-choice-for-2019-2bc30fc76442&lt;/p&gt;
+
+&lt;p&gt;dasssss
+sa
+da
+sd
+asd
+as
+da
+sd
+asd&lt;/p&gt;
+
+</description>
+				<pubDate>Fri, 10 Jan 2020 00:00:00 -0400</pubDate>
+				<link>http://sommen.github.io/2020/01/10/Flutter-%C3%A9-d++/</link>
+				<guid isPermaLink="true">http://sommen.github.io/2020/01/10/Flutter-%C3%A9-d++/</guid>
+			</item>
 		
 			<item>
 				<title>Villas Boas mama meu saco</title>
@@ -14,20 +41,8 @@ Perfeito.
 Nenhum de nós prove uma palavra sequer, fazendo com que os únicos sons circulando pelo nosso ambiente carinhoso são o vento que entra pela janela e os pequenos gritos abafados que lentamente escapam de sua boca borbulhando com sangue, enquanto corto graciosamente sua garganta e sacrifico sua vida completamente inútil e horrendamente sem graça ao único e perfeito senhor das trevas.&lt;/p&gt;
 </description>
 				<pubDate>Sat, 04 Jan 2020 00:00:00 -0400</pubDate>
-				<link>http://sommen01.github.io/2020/01/04/example-content-copy-11/</link>
-				<guid isPermaLink="true">http://sommen01.github.io/2020/01/04/example-content-copy-11/</guid>
-			</item>
-		
-			<item>
-				<title>Ola, prazer meu nome é Luka.</title>
-        <description>&lt;h1 id=&quot;blog-de-desenvolvimento-em-desenvolvimento&quot;&gt;Blog de desenvolvimento em desenvolvimento.&lt;/h1&gt;
-
-&lt;p&gt;Ola seja bem vindo ao meu blog de desenvolvimento que está em desenvolvimento. Tentarei manter o foco com flutter e vuejs, dois frameworks que gosto bastante e espero contribuir com a comunidade
-e blablbalabla amanha eu testo fodase&lt;/p&gt;
-</description>
-				<pubDate>Sat, 04 Jan 2020 00:00:00 -0400</pubDate>
-				<link>http://sommen01.github.io/2020/01/04/PrimeiroPost/</link>
-				<guid isPermaLink="true">http://sommen01.github.io/2020/01/04/PrimeiroPost/</guid>
+				<link>http://sommen.github.io/2020/01/04/example-content-copy-11/</link>
+				<guid isPermaLink="true">http://sommen.github.io/2020/01/04/example-content-copy-11/</guid>
 			</item>
 		
 			<item>
@@ -53,8 +68,8 @@ e blablbalabla amanha eu testo fodase&lt;/p&gt;
 
 </description>
 				<pubDate>Sat, 23 Mar 2019 11:33:36 -0400</pubDate>
-				<link>http://sommen01.github.io/2019/03/23/welcome-to-jekyll/</link>
-				<guid isPermaLink="true">http://sommen01.github.io/2019/03/23/welcome-to-jekyll/</guid>
+				<link>http://sommen.github.io/2019/03/23/welcome-to-jekyll/</link>
+				<guid isPermaLink="true">http://sommen.github.io/2019/03/23/welcome-to-jekyll/</guid>
 			</item>
 		
 	</channel>
